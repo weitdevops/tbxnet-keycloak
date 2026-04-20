@@ -1,0 +1,4 @@
+tenantId,affiliatesRoles,cloudpayRoles
+direct-tv,affiliates:read|affiliates:create|affiliates:commission,payments:get|payments:create|payments:refund
+partner-002,affiliates:read,payments:get
+partner-003,affiliates:read|affiliates:create,
