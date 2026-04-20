@@ -1,0 +1,19 @@
+{
+  "name": "keycloak-jwt-example",
+  "version": "1.0.0",
+  "description": "Ejemplo simple de validacion de JWT de Keycloak con Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "express-oauth2-jwt-bearer": "^1.8.0"
+  }
+}
