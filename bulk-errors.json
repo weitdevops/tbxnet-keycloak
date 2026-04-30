@@ -1,0 +1,14 @@
+[
+  {
+    "tenantId": "direct-tv",
+    "error": "Invalid URL"
+  },
+  {
+    "tenantId": "partner-002",
+    "error": "Invalid URL"
+  },
+  {
+    "tenantId": "partner-003",
+    "error": "Invalid URL"
+  }
+]
