@@ -365,3 +365,5 @@ developer-public
 | Audience | API destino |
 
 ---
+
+https://docs.google.com/document/d/1_pMh6EsQbIne-n3Wk6vJvTOZlGK0NQGJgVbRow97qRc
